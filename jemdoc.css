@@ -7,7 +7,7 @@ table#tlayout {
 
 body {
 	background: white;
-	font-family: Times, serif;
+	font-family: Consolas, monospace;
 	padding-bottom: 8px;
 	margin: 0;
 }
