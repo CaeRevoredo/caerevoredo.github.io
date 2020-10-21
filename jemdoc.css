@@ -7,7 +7,7 @@ table#tlayout {
 
 body {
 	background: white;
-	font-family: Consola;
+	font-family: Arial;
 	padding-bottom: 8px;
 	margin: 0;
 }
@@ -51,7 +51,7 @@ tt {
 
 pre, tt {
 	font-size: 90%;
-	font-family: Consola;
+	font-family: Arial;
 }
 
 a, a > tt {
