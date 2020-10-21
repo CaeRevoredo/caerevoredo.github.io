@@ -51,7 +51,7 @@ tt {
 
 pre, tt {
 	font-size: 90%;
-	font-family: monaco, monospace;
+	font-family: Basketville Old Face, monospace;
 }
 
 a, a > tt {
@@ -91,7 +91,7 @@ div.menu-item {
 div#toptitle {
 	padding-bottom: 0.2em;
 	margin-bottom: 1.5em;
-	border-bottom: 3px double gray;
+	border-bottom: 3px double blue;
 }
 
 /* Reduce space if we begin the page with a title. */
